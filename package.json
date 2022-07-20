@@ -9,10 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^6.5.1",
     "next": "12.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "styled-components": "^5.3.5"
+    "react-markdown": "^8.0.3",
+    "remark-gfm": "^3.0.1",
+    "styled-components": "^5.3.5",
+    "swiper": "^8.3.1"
   },
   "devDependencies": {
     "@types/node": "18.0.6",
