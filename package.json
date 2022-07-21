@@ -1,5 +1,6 @@
 {
-  "name": "venus-glory-latest",
+  "name": "next-starter",
+  "description": "A starter template for next.js projects with TypeScript. Equipped with framer-motion, swiper and styled-components.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
